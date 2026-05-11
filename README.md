@@ -1,4 +1,4 @@
-# 3008ICT-Assignment1
+# 3806ICT-Assignment1
 C++ implementation of Algorithm 2 from Hou's *Fundamentals of Logic and Computation* (2021), with an iterative-deepening on gamma rules improvement.
 
 ## Build
